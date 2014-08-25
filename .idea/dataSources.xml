@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2493395170">
+    <data-source source="LOCAL" name="Rails range2go: development" uuid="5fd16445-b4de-4fb1-9729-552066ea920e">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1/prelaunchr</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails range2go: test" uuid="865e5549-4af2-437a-89e2-f974e59f9879">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1/prelaunchr</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails range2go: production" uuid="fd84a484-ccc2-468d-bfd5-c7297cc2b567">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://ec2-184-72-238-68.compute-1.amazonaws.com:5432/d5uol1hgn45lg1</jdbc-url>
+      <user-password>dfe4df98df9cdfecdfdbdff0dfe0dfc8dff3df9bdfdcdfe7df9ddffadfcfdfdbdfc9dff8dfdfdfdfdfc5dfc6df99dffddf9edfda</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+

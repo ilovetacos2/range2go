@@ -979,3 +979,4 @@ Served asset /refer/progress-done.png - 200 OK (175ms)
 
 Started GET "/assets/refer/progress-bg.png" for 127.0.0.1 at 2014-08-21 04:33:02 -0700
 Served asset /refer/progress-bg.png - 200 OK (303ms)
+Connecting to database specified by database.yml
