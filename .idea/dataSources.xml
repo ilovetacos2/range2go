@@ -5,6 +5,8 @@
       <driver-ref>postgresql</driver-ref>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://127.0.0.1/prelaunchr</jdbc-url>
+      <user-name>postgres</user-name>
+      <user-password>dfcedfc8dfcbdfcedfc7dfc3dfc4</user-password>
       <libraries />
     </data-source>
     <data-source source="LOCAL" name="Rails range2go: test" uuid="865e5549-4af2-437a-89e2-f974e59f9879">
@@ -16,8 +18,9 @@
     <data-source source="LOCAL" name="Rails range2go: production" uuid="fd84a484-ccc2-468d-bfd5-c7297cc2b567">
       <driver-ref>postgresql</driver-ref>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://ec2-184-72-238-68.compute-1.amazonaws.com:5432/d5uol1hgn45lg1</jdbc-url>
-      <user-password>dfe4df98df9cdfecdfdbdff0dfe0dfc8dff3df9bdfdcdfe7df9ddffadfcfdfdbdfc9dff8dfdfdfdfdfc5dfc6df99dffddf9edfda</user-password>
+      <jdbc-url>jdbc:postgresql://ec2-107-20-191-205.compute-1.amazonaws.com:5432/d87qhjsus60q8f</jdbc-url>
+      <user-name>jhdjuoovtqacrx</user-name>
+      <user-password>dfefdfe9dfcddf98dfd8dfe0dfe0dffddfccdf99df9cdf98df92df9adffcdfcbdfeddff0dfc0dfe6df87dfe3dfeddfe1dfc8dffd</user-password>
       <libraries />
     </data-source>
   </component>
