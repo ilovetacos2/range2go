@@ -2,7 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bbaec71-115e-44c5-bfcc-d9d539f663f1" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/home/Banner Page1.jpg" afterPath="$PROJECT_DIR$/app/assets/images/home/BannerPage1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/home/BannerPage1-2efc480cffd63493dfd350c8f779b9ac.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/home/BannerPage1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/active_admin-76495de5f9a0a6af340457a8d11e1130.js.gz" afterPath="$PROJECT_DIR$/public/assets/active_admin-76495de5f9a0a6af340457a8d11e1130.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/active_admin-f58fc98e42733be6473403cf53156e11.css.gz" afterPath="$PROJECT_DIR$/public/assets/active_admin-f58fc98e42733be6473403cf53156e11.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/active_admin.css.gz" afterPath="$PROJECT_DIR$/public/assets/active_admin.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/active_admin.js.gz" afterPath="$PROJECT_DIR$/public/assets/active_admin.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/application-1b7fb3ae69d5e6b000cfac0881ba4641.css.gz" afterPath="$PROJECT_DIR$/public/assets/application-1b7fb3ae69d5e6b000cfac0881ba4641.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/active_admin/application-779f888844e34dddc8281502d7c62620.js.gz" afterPath="$PROJECT_DIR$/public/assets/active_admin/application-779f888844e34dddc8281502d7c62620.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/active_admin/pages/application-9962e9eb4723fd98f06bcc5dd97d3416.js.gz" afterPath="$PROJECT_DIR$/public/assets/active_admin/pages/application-9962e9eb4723fd98f06bcc5dd97d3416.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/application-d1dbc22ff3da2fa875d5b9de579f6111.js.gz" afterPath="$PROJECT_DIR$/public/assets/application-d1dbc22ff3da2fa875d5b9de579f6111.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/application.css.gz" afterPath="$PROJECT_DIR$/public/assets/application.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/application.js.gz" afterPath="$PROJECT_DIR$/public/assets/application.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/active_admin/application.js.gz" afterPath="$PROJECT_DIR$/public/assets/active_admin/application.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/active_admin/pages/application.js.gz" afterPath="$PROJECT_DIR$/public/assets/active_admin/pages/application.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/bootstrap-44bd10ee336ff4bb54572ea33cea04d8.css.gz" afterPath="$PROJECT_DIR$/public/assets/bootstrap-44bd10ee336ff4bb54572ea33cea04d8.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/bootstrap.css.gz" afterPath="$PROJECT_DIR$/public/assets/bootstrap.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/core-4377dfe6f4fc62356e8c6e0cd1b6e075.css.gz" afterPath="$PROJECT_DIR$/public/assets/core-4377dfe6f4fc62356e8c6e0cd1b6e075.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/core.css.gz" afterPath="$PROJECT_DIR$/public/assets/core.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/active_admin/print-80ebe25ed30c2f719a2720c7dffad181.css.gz" afterPath="$PROJECT_DIR$/public/assets/active_admin/print-80ebe25ed30c2f719a2720c7dffad181.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/active_admin/print.css.gz" afterPath="$PROJECT_DIR$/public/assets/active_admin/print.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/reset-6ad98bc091cc9c97d9111ba5d3b1bc6e.css.gz" afterPath="$PROJECT_DIR$/public/assets/reset-6ad98bc091cc9c97d9111ba5d3b1bc6e.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/reset.css.gz" afterPath="$PROJECT_DIR$/public/assets/reset.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/manifest.yml" afterPath="$PROJECT_DIR$/public/assets/manifest.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/production.log" afterPath="$PROJECT_DIR$/log/production.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="range2go.iws" />
@@ -376,7 +399,11 @@
       <created>1409179916049</created>
       <updated>1409179916049</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="compile new images and css">
+      <created>1409180050869</created>
+      <updated>1409180050869</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
