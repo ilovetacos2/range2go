@@ -11,8 +11,8 @@ email/twitter.jpg: email/twitter-d469adc5ec1cfdb85cc3714c3db041f4.jpg
 email/twitter/index.jpg: email/twitter-d469adc5ec1cfdb85cc3714c3db041f4.jpg
 favicon.ico: favicon-1d8eca370481ab7b6a9a69b5f201f2d4.ico
 favicon/index.ico: favicon-1d8eca370481ab7b6a9a69b5f201f2d4.ico
-home/BannerPage1.jpg: home/BannerPage1-2efc480cffd63493dfd350c8f779b9ac.jpg
-home/BannerPage1/index.jpg: home/BannerPage1-2efc480cffd63493dfd350c8f779b9ac.jpg
+home/BannerPage1.png: home/BannerPage1-eb0597aa137fc1751fa0fc04db4b9e3f.png
+home/BannerPage1/index.png: home/BannerPage1-eb0597aa137fc1751fa0fc04db4b9e3f.png
 home/hero.jpg: home/hero-dfe14a47319d7f97cf7de8fde741afb5.jpg
 home/hero/index.jpg: home/hero-dfe14a47319d7f97cf7de8fde741afb5.jpg
 home/hero@2x.jpg: home/hero@2x-c1e28d1d21fe3c0a95e55a2657b2d7ca.jpg
@@ -83,12 +83,12 @@ application.js: application-d1dbc22ff3da2fa875d5b9de579f6111.js
 application/index.js: application-d1dbc22ff3da2fa875d5b9de579f6111.js
 active_admin.css: active_admin-f58fc98e42733be6473403cf53156e11.css
 active_admin/index.css: active_admin-f58fc98e42733be6473403cf53156e11.css
-application.css: application-1b7fb3ae69d5e6b000cfac0881ba4641.css
-application/index.css: application-1b7fb3ae69d5e6b000cfac0881ba4641.css
+application.css: application-b0a0582993d2783436686bd9a0b00271.css
+application/index.css: application-b0a0582993d2783436686bd9a0b00271.css
 bootstrap.css: bootstrap-44bd10ee336ff4bb54572ea33cea04d8.css
 bootstrap/index.css: bootstrap-44bd10ee336ff4bb54572ea33cea04d8.css
-core.css: core-4377dfe6f4fc62356e8c6e0cd1b6e075.css
-core/index.css: core-4377dfe6f4fc62356e8c6e0cd1b6e075.css
+core.css: core-66206844959ca6f13a94810e9a1089d3.css
+core/index.css: core-66206844959ca6f13a94810e9a1089d3.css
 reset.css: reset-6ad98bc091cc9c97d9111ba5d3b1bc6e.css
 reset/index.css: reset-6ad98bc091cc9c97d9111ba5d3b1bc6e.css
 active_admin/admin_notes_icon.png: active_admin/admin_notes_icon-25b05cd8197f7a271d0624853a6dbdd5.png
