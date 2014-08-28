@@ -21,6 +21,8 @@ home/key.png: home/key-da4d58ad73bf5a155ca0f3426d90e901.png
 home/key/index.png: home/key-da4d58ad73bf5a155ca0f3426d90e901.png
 home/key@2x.png: home/key@2x-ece594ba52573774d6b752f03c5d7104.png
 home/key@2x/index.png: home/key@2x-ece594ba52573774d6b752f03c5d7104.png
+refer/bannerpage2.jpg: refer/bannerpage2-b781775b9ab467ab65d76c4bd01ef16e.jpg
+refer/bannerpage2/index.jpg: refer/bannerpage2-b781775b9ab467ab65d76c4bd01ef16e.jpg
 refer/blade-explain.png: refer/blade-explain-5d5d1eff8ab18125ccbc6e6dd4c2ff7c.png
 refer/blade-explain/index.png: refer/blade-explain-5d5d1eff8ab18125ccbc6e6dd4c2ff7c.png
 refer/blade-explain@2x.png: refer/blade-explain@2x-1d1889a0d73eb0384339b800291b99c0.png
@@ -55,8 +57,8 @@ refer/progress-done.png: refer/progress-done-5ea861cda5c14021ac7e7648350bae10.pn
 refer/progress-done/index.png: refer/progress-done-5ea861cda5c14021ac7e7648350bae10.png
 refer/progress-done@2x.png: refer/progress-done@2x-4fc9a6ea1eb01e93982d366fae8f8213.png
 refer/progress-done@2x/index.png: refer/progress-done@2x-4fc9a6ea1eb01e93982d366fae8f8213.png
-refer/referbanner.jpg: refer/referbanner-a65e5968f9ba476400a9c394df5af9fc.jpg
-refer/referbanner/index.jpg: refer/referbanner-a65e5968f9ba476400a9c394df5af9fc.jpg
+refer/referbanner.jpg: refer/referbanner-b781775b9ab467ab65d76c4bd01ef16e.jpg
+refer/referbanner/index.jpg: refer/referbanner-b781775b9ab467ab65d76c4bd01ef16e.jpg
 refer/reward1.jpg: refer/reward1-a781607457b7ad9547dbcd109bec9b4f.jpg
 refer/reward1/index.jpg: refer/reward1-a781607457b7ad9547dbcd109bec9b4f.jpg
 refer/reward2.jpg: refer/reward2-cb629205bc9333e94289799468ff46e2.jpg
@@ -83,12 +85,12 @@ application.js: application-d1dbc22ff3da2fa875d5b9de579f6111.js
 application/index.js: application-d1dbc22ff3da2fa875d5b9de579f6111.js
 active_admin.css: active_admin-f58fc98e42733be6473403cf53156e11.css
 active_admin/index.css: active_admin-f58fc98e42733be6473403cf53156e11.css
-application.css: application-b7468d2f15b941430f785aafbc9326ab.css
-application/index.css: application-b7468d2f15b941430f785aafbc9326ab.css
+application.css: application-b76811c213b1886bfeee2e969f55c307.css
+application/index.css: application-b76811c213b1886bfeee2e969f55c307.css
 bootstrap.css: bootstrap-44bd10ee336ff4bb54572ea33cea04d8.css
 bootstrap/index.css: bootstrap-44bd10ee336ff4bb54572ea33cea04d8.css
-core.css: core-ee78aa78592f100acf5c0e79aefd3d95.css
-core/index.css: core-ee78aa78592f100acf5c0e79aefd3d95.css
+core.css: core-7142c5c5d9c63b2c4115bd467725a7b4.css
+core/index.css: core-7142c5c5d9c63b2c4115bd467725a7b4.css
 reset.css: reset-6ad98bc091cc9c97d9111ba5d3b1bc6e.css
 reset/index.css: reset-6ad98bc091cc9c97d9111ba5d3b1bc6e.css
 active_admin/admin_notes_icon.png: active_admin/admin_notes_icon-25b05cd8197f7a271d0624853a6dbdd5.png
