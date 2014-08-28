@@ -33,7 +33,7 @@ class User < ActiveRecord::Base
             'count' => 50,
             "html" => "Range to Go",
             "class" => "five",
-            "image" => ActionController::Base.helpers.asset_path("refer/reward4.jpg")
+            "image" => ActionController::Base.helpers.asset_path("refer/reward4.png")
         }
     ]
 
