@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3bbaec71-115e-44c5-bfcc-d9d539f663f1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/production.log" afterPath="$PROJECT_DIR$/log/production.log" />
+    <list default="true" id="3bbaec71-115e-44c5-bfcc-d9d539f663f1" name="Default" comment="update title">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="range2go.iws" />
@@ -336,7 +335,11 @@
       <created>1409261489038</created>
       <updated>1409261489038</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="update title">
+      <created>1409261675605</created>
+      <updated>1409261675605</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="ToolWindowManager">
