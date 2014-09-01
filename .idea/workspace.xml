@@ -2,111 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bbaec71-115e-44c5-bfcc-d9d539f663f1" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/email/harrys-is-coming.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/email/logo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/home/hero.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/home/hero@2x.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/refer/blade-explain.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/refer/blade-explain@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/refer/cream-tooltip.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/refer/cream-tooltip.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/refer/cream-tooltip@2x.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/refer/cream-tooltip@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/refer/mammoth.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/refer/mammoth@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/refer/reward3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/refer/reward4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/refer/truman.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/refer/truman@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/refer/winston.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/refer/winston@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/active_admin-1ac9b7db16ce3bb6e559998f9059b9d0.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/active_admin-1ac9b7db16ce3bb6e559998f9059b9d0.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-1b7fb3ae69d5e6b000cfac0881ba4641.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-1b7fb3ae69d5e6b000cfac0881ba4641.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-705738657148de45a3020e78621a0398.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-705738657148de45a3020e78621a0398.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-b0a0582993d2783436686bd9a0b00271.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-b0a0582993d2783436686bd9a0b00271.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-b7468d2f15b941430f785aafbc9326ab.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-b7468d2f15b941430f785aafbc9326ab.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-b76811c213b1886bfeee2e969f55c307.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-b76811c213b1886bfeee2e969f55c307.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-c11c5e9607d570c2c200c2b26697d002.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-c11c5e9607d570c2c200c2b26697d002.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-db41b58fbd35e5d75104c3cc393c8e01.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-db41b58fbd35e5d75104c3cc393c8e01.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/core-4377dfe6f4fc62356e8c6e0cd1b6e075.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/core-4377dfe6f4fc62356e8c6e0cd1b6e075.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/core-592e3cd5207b0fad3fad0fdc60fa191a.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/core-592e3cd5207b0fad3fad0fdc60fa191a.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/core-66206844959ca6f13a94810e9a1089d3.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/core-66206844959ca6f13a94810e9a1089d3.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/core-7142c5c5d9c63b2c4115bd467725a7b4.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/core-7142c5c5d9c63b2c4115bd467725a7b4.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/core-e0979fe743cef698cc3f998530eab334.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/core-e0979fe743cef698cc3f998530eab334.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/core-ee78aa78592f100acf5c0e79aefd3d95.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/core-ee78aa78592f100acf5c0e79aefd3d95.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/email/harrys-is-coming-f54a90bf05cc24eb84fa65fe540a9cd6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/email/harrys-is-coming.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/email/logo-5a1fd248060c71af8f0d4f067041ea98.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/email/logo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/favicon-1d8eca370481ab7b6a9a69b5f201f2d4.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/home/Banner Page1-2efc480cffd63493dfd350c8f779b9ac.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/home/Banner Page1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/home/BannerPage1-2efc480cffd63493dfd350c8f779b9ac.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/home/BannerPage1-eb0597aa137fc1751fa0fc04db4b9e3f.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/home/BannerPage1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/home/hero-dfe14a47319d7f97cf7de8fde741afb5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/home/hero.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/home/hero@2x-c1e28d1d21fe3c0a95e55a2657b2d7ca.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/home/hero@2x.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/home/newpage1-fca13bd86ddeb1914c9dbd839c8d83aa.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/home/newpage1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/blade-explain-5d5d1eff8ab18125ccbc6e6dd4c2ff7c.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/blade-explain.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/blade-explain@2x-1d1889a0d73eb0384339b800291b99c0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/blade-explain@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/cream-tooltip-17b707635c9d28a3fe78f3d718e6bfdc.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/cream-tooltip-85228b49345905dae45f7264d2f9e6df.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/cream-tooltip.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/cream-tooltip.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/cream-tooltip@2x-afcaba9c26d75316bc9a97461c803161.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/cream-tooltip@2x-eb83ae0058e0af0b00160fa6a75382f3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/cream-tooltip@2x.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/cream-tooltip@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/facebookimage-b585eaadb0169c152046d5feecd7d295.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/facebookimage-e9bf3aaadd5defdb789e1fc3395180e0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/facebookimage.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/mammoth-e0522022e86e63670d99ed1dece5e106.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/mammoth.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/mammoth@2x-66110273b3b513054f635ca19f4f984e.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/mammoth@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/referbanner-a65e5968f9ba476400a9c394df5af9fc.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/reward1-474dc9019f4a9403611fdbbe96eef4ff.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/reward2-3367b3c28f4b19a8b791b2f72dcb7ca4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/reward3-8fc3a7b067da368bfd766b352dfcb7ca.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/reward3-d240f74d2e17fae51cdd6ba01290b809.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/reward3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/reward4-3b5496f2bacb6a9f6c0d2f76e1987f7c.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/reward4-cff514552aff137706dc2e9bdffbda0c.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/reward4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/truman-ec5046e713827604499c536b5604bd1a.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/truman.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/truman@2x-186719f96aab8f228a35f7b6d47e334d.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/truman@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/winston-da36444a3aa48353d23a66724c7d2038.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/winston.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/winston@2x-e3d08d6f6b936c3c692731632471f78a.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/winston@2x.png" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-61ba4793582d41b7b772685e82dc987a.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/core-4c7e9751f0980b6a59168f4d06051346.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/core-4c7e9751f0980b6a59168f4d06051346.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-2abcaba71c068495df110bd77e6e1c19.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/core-fa314740ccd70ad04a6c0bdf25369247.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/core-fa314740ccd70ad04a6c0bdf25369247.css.gz" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/home/BannerPage1.jpg" afterPath="$PROJECT_DIR$/app/assets/images/home/page1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/application-2abcaba71c068495df110bd77e6e1c19.css" afterPath="$PROJECT_DIR$/public/assets/application-61ba4793582d41b7b772685e82dc987a.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/home/BannerPage1-45943d5bd86bc0b4e8512d785df76f34.jpg" afterPath="$PROJECT_DIR$/public/assets/home/page1-45943d5bd86bc0b4e8512d785df76f34.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/home/BannerPage1.jpg" afterPath="$PROJECT_DIR$/public/assets/home/page1.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/active_admin-76495de5f9a0a6af340457a8d11e1130.js.gz" afterPath="$PROJECT_DIR$/public/assets/active_admin-76495de5f9a0a6af340457a8d11e1130.js.gz" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/active_admin-f58fc98e42733be6473403cf53156e11.css.gz" afterPath="$PROJECT_DIR$/public/assets/active_admin-f58fc98e42733be6473403cf53156e11.css.gz" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/active_admin.css.gz" afterPath="$PROJECT_DIR$/public/assets/active_admin.css.gz" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/active_admin.js.gz" afterPath="$PROJECT_DIR$/public/assets/active_admin.js.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/application-2abcaba71c068495df110bd77e6e1c19.css.gz" afterPath="$PROJECT_DIR$/public/assets/application-2abcaba71c068495df110bd77e6e1c19.css.gz" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/active_admin/application-779f888844e34dddc8281502d7c62620.js.gz" afterPath="$PROJECT_DIR$/public/assets/active_admin/application-779f888844e34dddc8281502d7c62620.js.gz" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/active_admin/pages/application-9962e9eb4723fd98f06bcc5dd97d3416.js.gz" afterPath="$PROJECT_DIR$/public/assets/active_admin/pages/application-9962e9eb4723fd98f06bcc5dd97d3416.js.gz" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/application-d1dbc22ff3da2fa875d5b9de579f6111.js.gz" afterPath="$PROJECT_DIR$/public/assets/application-d1dbc22ff3da2fa875d5b9de579f6111.js.gz" />
@@ -116,13 +25,14 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/active_admin/pages/application.js.gz" afterPath="$PROJECT_DIR$/public/assets/active_admin/pages/application.js.gz" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/bootstrap-44bd10ee336ff4bb54572ea33cea04d8.css.gz" afterPath="$PROJECT_DIR$/public/assets/bootstrap-44bd10ee336ff4bb54572ea33cea04d8.css.gz" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/bootstrap.css.gz" afterPath="$PROJECT_DIR$/public/assets/bootstrap.css.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/core-fa314740ccd70ad04a6c0bdf25369247.css.gz" afterPath="$PROJECT_DIR$/public/assets/core-fa314740ccd70ad04a6c0bdf25369247.css.gz" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/core.css.gz" afterPath="$PROJECT_DIR$/public/assets/core.css.gz" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/active_admin/print-80ebe25ed30c2f719a2720c7dffad181.css.gz" afterPath="$PROJECT_DIR$/public/assets/active_admin/print-80ebe25ed30c2f719a2720c7dffad181.css.gz" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/active_admin/print.css.gz" afterPath="$PROJECT_DIR$/public/assets/active_admin/print.css.gz" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/reset-6ad98bc091cc9c97d9111ba5d3b1bc6e.css.gz" afterPath="$PROJECT_DIR$/public/assets/reset-6ad98bc091cc9c97d9111ba5d3b1bc6e.css.gz" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/reset.css.gz" afterPath="$PROJECT_DIR$/public/assets/reset.css.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/development.log" afterPath="$PROJECT_DIR$/log/development.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/application.css" afterPath="$PROJECT_DIR$/public/assets/application.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/core.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/core.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/core.css" afterPath="$PROJECT_DIR$/public/assets/core.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/manifest.yml" afterPath="$PROJECT_DIR$/public/assets/manifest.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/production.log" afterPath="$PROJECT_DIR$/log/production.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -168,11 +78,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.html.erb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="application.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7826087" vertical-offset="111" max-vertical-offset="525">
-              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+            <state vertical-scroll-proportion="-6.625" vertical-offset="111" max-vertical-offset="525">
+              <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="copy.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/copy.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="540">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="core.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/core.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.8842105" vertical-offset="549" max-vertical-offset="11025">
+              <caret line="59" column="8" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -213,7 +143,6 @@
       <list>
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/config/database.yml" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/core.css" />
         <option value="$PROJECT_DIR$/app/models/user.rb" />
         <option value="$PROJECT_DIR$/LICENSE" />
         <option value="$PROJECT_DIR$/README.md" />
@@ -226,6 +155,7 @@
         <option value="$PROJECT_DIR$/app/views/user_mailer/signup_email.html.erb" />
         <option value="$PROJECT_DIR$/app/views/users/refer.html.erb" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/core.css" />
       </list>
     </option>
   </component>
@@ -261,7 +191,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="RailsProjectView" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -272,11 +202,11 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="RailsProjectView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../prelaunchr" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
   </component>
@@ -408,6 +338,9 @@
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="3bbaec71-115e-44c5-bfcc-d9d539f663f1" name="Default" comment="" />
@@ -522,7 +455,11 @@
       <created>1409267156042</created>
       <updated>1409267156042</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="remove archived assets">
+      <created>1409450580768</created>
+      <updated>1409450580768</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -534,7 +471,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25170067" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25034013" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -542,12 +479,12 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3291592" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33810377" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -572,12 +509,53 @@
     <MESSAGE value="update title" />
     <MESSAGE value="update social media" />
     <MESSAGE value="update facebook image" />
-    <option name="LAST_COMMIT_MESSAGE" value="update facebook image" />
+    <MESSAGE value="remove archived assets" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove archived assets" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/log/development.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="128175">
+          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/users/refer.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="1395">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="111" max-vertical-offset="525">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/mailers/user_mailer.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="240">
+          <caret line="5" column="91" selection-start-line="5" selection-start-column="91" selection-end-line="5" selection-end-column="91" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/user_mailer/signup_email.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="1575">
+          <caret line="11" column="171" selection-start-line="11" selection-start-column="171" selection-end-line="11" selection-end-column="171" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/log/development.log">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="128145">
@@ -669,13 +647,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/core.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.617647" vertical-offset="9570" max-vertical-offset="11025">
-          <caret line="653" column="16" selection-start-line="653" selection-start-column="16" selection-end-line="653" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/models/user.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="945">
@@ -684,13 +655,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.0714285" vertical-offset="0" max-vertical-offset="405">
           <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
         </state>
-      </provider>
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -783,8 +754,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7826087" vertical-offset="111" max-vertical-offset="525">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state vertical-scroll-proportion="-6.625" vertical-offset="111" max-vertical-offset="525">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/copy.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/core.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8842105" vertical-offset="549" max-vertical-offset="11025">
+          <caret line="59" column="8" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
           <folding />
         </state>
       </provider>
