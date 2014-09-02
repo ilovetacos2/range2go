@@ -174,7 +174,7 @@ DEPENDENCIES
   pg
   pry
   rails (= 3.2.11)
-  rails_serve_static_assets (~> 0.0.2)
+  rails_serve_static_assets
   sass-rails (~> 3.2.3)
   uglifier (>= 1.0.3)
   unicorn
