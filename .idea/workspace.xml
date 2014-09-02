@@ -2,18 +2,126 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bbaec71-115e-44c5-bfcc-d9d539f663f1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/facebookimage2-e9bf3aaadd5defdb789e1fc3395180e0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/facebookimage2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/home/hero@2x-1b13569e9620782f423d4cd3ce931750.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/mammoth-1b13569e9620782f423d4cd3ce931750.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/mammoth@2x-1b13569e9620782f423d4cd3ce931750.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-61ba4793582d41b7b772685e82dc987a.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/core-4c7e9751f0980b6a59168f4d06051346.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/core-4c7e9751f0980b6a59168f4d06051346.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/log/test.log" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/email/harrys-is-coming.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/email/logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/home/hero.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/home/hero@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/refer/blade-explain.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/refer/blade-explain@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/refer/cream-tooltip.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/refer/cream-tooltip.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/refer/cream-tooltip@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/refer/cream-tooltip@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/refer/mammoth.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/refer/mammoth@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/refer/reward3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/refer/reward4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/refer/truman.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/refer/truman@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/refer/winston.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/refer/winston@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/active_admin-1ac9b7db16ce3bb6e559998f9059b9d0.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/active_admin-1ac9b7db16ce3bb6e559998f9059b9d0.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-1b7fb3ae69d5e6b000cfac0881ba4641.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-1b7fb3ae69d5e6b000cfac0881ba4641.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-2abcaba71c068495df110bd77e6e1c19.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-2abcaba71c068495df110bd77e6e1c19.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-705738657148de45a3020e78621a0398.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-705738657148de45a3020e78621a0398.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-b0a0582993d2783436686bd9a0b00271.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-b0a0582993d2783436686bd9a0b00271.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-b7468d2f15b941430f785aafbc9326ab.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-b76811c213b1886bfeee2e969f55c307.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-b76811c213b1886bfeee2e969f55c307.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-c11c5e9607d570c2c200c2b26697d002.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-c11c5e9607d570c2c200c2b26697d002.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-db41b58fbd35e5d75104c3cc393c8e01.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-db41b58fbd35e5d75104c3cc393c8e01.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/core-4377dfe6f4fc62356e8c6e0cd1b6e075.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/core-4377dfe6f4fc62356e8c6e0cd1b6e075.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/core-592e3cd5207b0fad3fad0fdc60fa191a.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/core-592e3cd5207b0fad3fad0fdc60fa191a.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/core-66206844959ca6f13a94810e9a1089d3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/core-66206844959ca6f13a94810e9a1089d3.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/core-7142c5c5d9c63b2c4115bd467725a7b4.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/core-7142c5c5d9c63b2c4115bd467725a7b4.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/core-e0979fe743cef698cc3f998530eab334.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/core-e0979fe743cef698cc3f998530eab334.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/core-ee78aa78592f100acf5c0e79aefd3d95.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/core-ee78aa78592f100acf5c0e79aefd3d95.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/core-fa314740ccd70ad04a6c0bdf25369247.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/core-fa314740ccd70ad04a6c0bdf25369247.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/email/harrys-is-coming-f54a90bf05cc24eb84fa65fe540a9cd6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/email/harrys-is-coming.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/email/logo-5a1fd248060c71af8f0d4f067041ea98.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/email/logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/favicon-1d8eca370481ab7b6a9a69b5f201f2d4.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/home/Banner Page1-2efc480cffd63493dfd350c8f779b9ac.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/home/Banner Page1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/home/BannerPage1-2efc480cffd63493dfd350c8f779b9ac.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/home/BannerPage1-eb0597aa137fc1751fa0fc04db4b9e3f.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/home/BannerPage1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/home/hero-dfe14a47319d7f97cf7de8fde741afb5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/home/hero.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/home/hero@2x-1b13569e9620782f423d4cd3ce931750.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/home/hero@2x-c1e28d1d21fe3c0a95e55a2657b2d7ca.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/home/hero@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/home/newpage1-fca13bd86ddeb1914c9dbd839c8d83aa.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/home/newpage1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/blade-explain-5d5d1eff8ab18125ccbc6e6dd4c2ff7c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/blade-explain.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/blade-explain@2x-1d1889a0d73eb0384339b800291b99c0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/blade-explain@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/cream-tooltip-17b707635c9d28a3fe78f3d718e6bfdc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/cream-tooltip-85228b49345905dae45f7264d2f9e6df.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/cream-tooltip.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/cream-tooltip.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/cream-tooltip@2x-afcaba9c26d75316bc9a97461c803161.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/cream-tooltip@2x-eb83ae0058e0af0b00160fa6a75382f3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/cream-tooltip@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/cream-tooltip@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/facebookimage-b585eaadb0169c152046d5feecd7d295.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/facebookimage-e9bf3aaadd5defdb789e1fc3395180e0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/facebookimage.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/mammoth-1b13569e9620782f423d4cd3ce931750.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/mammoth-e0522022e86e63670d99ed1dece5e106.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/mammoth.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/mammoth@2x-1b13569e9620782f423d4cd3ce931750.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/mammoth@2x-66110273b3b513054f635ca19f4f984e.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/mammoth@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/referbanner-a65e5968f9ba476400a9c394df5af9fc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/reward1-474dc9019f4a9403611fdbbe96eef4ff.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/reward2-3367b3c28f4b19a8b791b2f72dcb7ca4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/reward3-8fc3a7b067da368bfd766b352dfcb7ca.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/reward3-d240f74d2e17fae51cdd6ba01290b809.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/reward3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/reward4-3b5496f2bacb6a9f6c0d2f76e1987f7c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/reward4-cff514552aff137706dc2e9bdffbda0c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/reward4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/truman-ec5046e713827604499c536b5604bd1a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/truman.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/truman@2x-186719f96aab8f228a35f7b6d47e334d.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/truman@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/winston-da36444a3aa48353d23a66724c7d2038.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/winston.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/winston@2x-e3d08d6f6b936c3c692731632471f78a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/refer/winston@2x.png" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/home/BannerPage1.jpg" afterPath="$PROJECT_DIR$/app/assets/images/home/page1.jpg" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/active_admin-ae5c3ba5823bd47d0ef2049ffe072e2a.js" afterPath="$PROJECT_DIR$/tmp/cache/assets/DA9/FF0/sprockets%2Fee8a535397292c60bc4fd5ad70eff8e2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/application-b7468d2f15b941430f785aafbc9326ab.css" afterPath="$PROJECT_DIR$/public/assets/application-61ba4793582d41b7b772685e82dc987a.css" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/bootstrap-ea238d8eca110570f7af1040f1236505.css" afterPath="$PROJECT_DIR$/tmp/cache/assets/D5E/4D0/sprockets%2Faa61726715c46ea17a59c216bcadaa29" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/home/BannerPage1-45943d5bd86bc0b4e8512d785df76f34.jpg" afterPath="$PROJECT_DIR$/public/assets/home/page1-45943d5bd86bc0b4e8512d785df76f34.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/home/BannerPage1.jpg" afterPath="$PROJECT_DIR$/public/assets/home/page1.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/active_admin-76495de5f9a0a6af340457a8d11e1130.js.gz" afterPath="$PROJECT_DIR$/public/assets/active_admin-76495de5f9a0a6af340457a8d11e1130.js.gz" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/active_admin-f58fc98e42733be6473403cf53156e11.css.gz" afterPath="$PROJECT_DIR$/public/assets/active_admin-f58fc98e42733be6473403cf53156e11.css.gz" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/active_admin.css.gz" afterPath="$PROJECT_DIR$/public/assets/active_admin.css.gz" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/active_admin.js.gz" afterPath="$PROJECT_DIR$/public/assets/active_admin.js.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/application-2abcaba71c068495df110bd77e6e1c19.css.gz" afterPath="$PROJECT_DIR$/public/assets/application-2abcaba71c068495df110bd77e6e1c19.css.gz" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/active_admin/application-779f888844e34dddc8281502d7c62620.js.gz" afterPath="$PROJECT_DIR$/public/assets/active_admin/application-779f888844e34dddc8281502d7c62620.js.gz" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/active_admin/pages/application-9962e9eb4723fd98f06bcc5dd97d3416.js.gz" afterPath="$PROJECT_DIR$/public/assets/active_admin/pages/application-9962e9eb4723fd98f06bcc5dd97d3416.js.gz" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/application-d1dbc22ff3da2fa875d5b9de579f6111.js.gz" afterPath="$PROJECT_DIR$/public/assets/application-d1dbc22ff3da2fa875d5b9de579f6111.js.gz" />
@@ -21,53 +129,20 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/application.js.gz" afterPath="$PROJECT_DIR$/public/assets/application.js.gz" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/active_admin/application.js.gz" afterPath="$PROJECT_DIR$/public/assets/active_admin/application.js.gz" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/active_admin/pages/application.js.gz" afterPath="$PROJECT_DIR$/public/assets/active_admin/pages/application.js.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/refer/bannerpage2-b781775b9ab467ab65d76c4bd01ef16e.jpg" afterPath="$PROJECT_DIR$/public/assets/refer/bannerpage2-b781775b9ab467ab65d76c4bd01ef16e.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/refer/bannerpage2.jpg" afterPath="$PROJECT_DIR$/public/assets/refer/bannerpage2.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/bootstrap-44bd10ee336ff4bb54572ea33cea04d8.css.gz" afterPath="$PROJECT_DIR$/public/assets/bootstrap-44bd10ee336ff4bb54572ea33cea04d8.css.gz" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/bootstrap.css.gz" afterPath="$PROJECT_DIR$/public/assets/bootstrap.css.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/core-fa314740ccd70ad04a6c0bdf25369247.css.gz" afterPath="$PROJECT_DIR$/public/assets/core-fa314740ccd70ad04a6c0bdf25369247.css.gz" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/core.css.gz" afterPath="$PROJECT_DIR$/public/assets/core.css.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/email/facebook-5ee65e34b0c852ad5cc3e00ff8afc4c0.jpg" afterPath="$PROJECT_DIR$/public/assets/email/facebook-5ee65e34b0c852ad5cc3e00ff8afc4c0.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/email/facebook.jpg" afterPath="$PROJECT_DIR$/public/assets/email/facebook.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/refer/fb-31a15e1ecaae6ef5b3352e78aed6cdad.png" afterPath="$PROJECT_DIR$/public/assets/refer/fb-31a15e1ecaae6ef5b3352e78aed6cdad.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/refer/fb.png" afterPath="$PROJECT_DIR$/public/assets/refer/fb.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/refer/fb@2x-0c4c5200a96812cade51bbc005ed00f9.png" afterPath="$PROJECT_DIR$/public/assets/refer/fb@2x-0c4c5200a96812cade51bbc005ed00f9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/refer/fb@2x.png" afterPath="$PROJECT_DIR$/public/assets/refer/fb@2x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/home/key-da4d58ad73bf5a155ca0f3426d90e901.png" afterPath="$PROJECT_DIR$/public/assets/home/key-da4d58ad73bf5a155ca0f3426d90e901.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/home/key.png" afterPath="$PROJECT_DIR$/public/assets/home/key.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/home/key@2x-ece594ba52573774d6b752f03c5d7104.png" afterPath="$PROJECT_DIR$/public/assets/home/key@2x-ece594ba52573774d6b752f03c5d7104.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/home/key@2x.png" afterPath="$PROJECT_DIR$/public/assets/home/key@2x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/refer/logo-f7aa2783ad30276cb6f54ef23da2e1fc.png" afterPath="$PROJECT_DIR$/public/assets/refer/logo-f7aa2783ad30276cb6f54ef23da2e1fc.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/refer/logo.png" afterPath="$PROJECT_DIR$/public/assets/refer/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/refer/logo@2x-dc79a923e97bf3f003666b73d91a049a.png" afterPath="$PROJECT_DIR$/public/assets/refer/logo@2x-dc79a923e97bf3f003666b73d91a049a.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/refer/logo@2x.png" afterPath="$PROJECT_DIR$/public/assets/refer/logo@2x.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/active_admin/print-80ebe25ed30c2f719a2720c7dffad181.css.gz" afterPath="$PROJECT_DIR$/public/assets/active_admin/print-80ebe25ed30c2f719a2720c7dffad181.css.gz" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/active_admin/print.css.gz" afterPath="$PROJECT_DIR$/public/assets/active_admin/print.css.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/refer/progress-bg-4a9966786feaf80d05fffb346ea295fb.png" afterPath="$PROJECT_DIR$/public/assets/refer/progress-bg-4a9966786feaf80d05fffb346ea295fb.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/refer/progress-bg.png" afterPath="$PROJECT_DIR$/public/assets/refer/progress-bg.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/refer/progress-bg@2x-3f444bdb8d49c58cad21955969f1b988.png" afterPath="$PROJECT_DIR$/public/assets/refer/progress-bg@2x-3f444bdb8d49c58cad21955969f1b988.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/refer/progress-bg@2x.png" afterPath="$PROJECT_DIR$/public/assets/refer/progress-bg@2x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/refer/progress-done-5ea861cda5c14021ac7e7648350bae10.png" afterPath="$PROJECT_DIR$/public/assets/refer/progress-done-5ea861cda5c14021ac7e7648350bae10.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/refer/progress-done.png" afterPath="$PROJECT_DIR$/public/assets/refer/progress-done.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/refer/progress-done@2x-4fc9a6ea1eb01e93982d366fae8f8213.png" afterPath="$PROJECT_DIR$/public/assets/refer/progress-done@2x-4fc9a6ea1eb01e93982d366fae8f8213.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/refer/progress-done@2x.png" afterPath="$PROJECT_DIR$/public/assets/refer/progress-done@2x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/email/refer-52361fd71aff3cb5e4eb3038ab41336a.jpg" afterPath="$PROJECT_DIR$/public/assets/email/refer-52361fd71aff3cb5e4eb3038ab41336a.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/email/refer.jpg" afterPath="$PROJECT_DIR$/public/assets/email/refer.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/refer/referbanner-b781775b9ab467ab65d76c4bd01ef16e.jpg" afterPath="$PROJECT_DIR$/public/assets/refer/referbanner-b781775b9ab467ab65d76c4bd01ef16e.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/reset-6ad98bc091cc9c97d9111ba5d3b1bc6e.css.gz" afterPath="$PROJECT_DIR$/public/assets/reset-6ad98bc091cc9c97d9111ba5d3b1bc6e.css.gz" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/reset.css.gz" afterPath="$PROJECT_DIR$/public/assets/reset.css.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/refer/reward1-a781607457b7ad9547dbcd109bec9b4f.jpg" afterPath="$PROJECT_DIR$/public/assets/refer/reward1-a781607457b7ad9547dbcd109bec9b4f.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/refer/reward1.jpg" afterPath="$PROJECT_DIR$/public/assets/refer/reward1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/refer/reward2-cb629205bc9333e94289799468ff46e2.jpg" afterPath="$PROJECT_DIR$/public/assets/refer/reward2-cb629205bc9333e94289799468ff46e2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/refer/reward2.jpg" afterPath="$PROJECT_DIR$/public/assets/refer/reward2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/refer/twit-dbe0a3e0c6ec50deaff3a7c65e500371.png" afterPath="$PROJECT_DIR$/public/assets/refer/twit-dbe0a3e0c6ec50deaff3a7c65e500371.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/refer/twit.png" afterPath="$PROJECT_DIR$/public/assets/refer/twit.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/refer/twit@2x-1c0daca2248072f1fd96f970bb06649c.png" afterPath="$PROJECT_DIR$/public/assets/refer/twit@2x-1c0daca2248072f1fd96f970bb06649c.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/refer/twit@2x.png" afterPath="$PROJECT_DIR$/public/assets/refer/twit@2x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/email/twitter-d469adc5ec1cfdb85cc3714c3db041f4.jpg" afterPath="$PROJECT_DIR$/public/assets/email/twitter-d469adc5ec1cfdb85cc3714c3db041f4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/email/twitter.jpg" afterPath="$PROJECT_DIR$/public/assets/email/twitter.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/application.css" afterPath="$PROJECT_DIR$/public/assets/application.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/core.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/core.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/core.css" afterPath="$PROJECT_DIR$/public/assets/core.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/development.log" afterPath="$PROJECT_DIR$/log/development.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/manifest.yml" afterPath="$PROJECT_DIR$/public/assets/manifest.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/production.log" afterPath="$PROJECT_DIR$/log/production.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/environments/production.rb" afterPath="$PROJECT_DIR$/config/environments/production.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="range2go.iws" />
@@ -94,8 +169,8 @@
       <file leaf-file-name="workspace.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="vcs:///home/administrator/Projects/range2go/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.38961038" vertical-offset="0" max-vertical-offset="10230">
-              <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+            <state vertical-scroll-proportion="0.8766234" vertical-offset="0" max-vertical-offset="10230">
+              <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -473,7 +548,11 @@
       <created>1409700412326</created>
       <updated>1409700412326</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="change serv static assets to true">
+      <created>1409700761083</created>
+      <updated>1409700761083</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
