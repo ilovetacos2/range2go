@@ -15,8 +15,8 @@ home/BannerPage1.jpg: home/BannerPage1-45943d5bd86bc0b4e8512d785df76f34.jpg
 home/BannerPage1/index.jpg: home/BannerPage1-45943d5bd86bc0b4e8512d785df76f34.jpg
 home/hero.jpg: home/hero-dfe14a47319d7f97cf7de8fde741afb5.jpg
 home/hero/index.jpg: home/hero-dfe14a47319d7f97cf7de8fde741afb5.jpg
-home/hero@2x.jpg: home/hero@2x-c1e28d1d21fe3c0a95e55a2657b2d7ca.jpg
-home/hero@2x/index.jpg: home/hero@2x-c1e28d1d21fe3c0a95e55a2657b2d7ca.jpg
+home/hero@2x.jpg: home/hero@2x-1b13569e9620782f423d4cd3ce931750.jpg
+home/hero@2x/index.jpg: home/hero@2x-1b13569e9620782f423d4cd3ce931750.jpg
 home/key.png: home/key-da4d58ad73bf5a155ca0f3426d90e901.png
 home/key/index.png: home/key-da4d58ad73bf5a155ca0f3426d90e901.png
 home/key@2x.png: home/key@2x-ece594ba52573774d6b752f03c5d7104.png
@@ -35,8 +35,8 @@ refer/cream-tooltip@2x.jpg: refer/cream-tooltip@2x-afcaba9c26d75316bc9a97461c803
 refer/cream-tooltip@2x/index.jpg: refer/cream-tooltip@2x-afcaba9c26d75316bc9a97461c803161.jpg
 refer/cream-tooltip@2x.png: refer/cream-tooltip@2x-eb83ae0058e0af0b00160fa6a75382f3.png
 refer/cream-tooltip@2x/index.png: refer/cream-tooltip@2x-eb83ae0058e0af0b00160fa6a75382f3.png
-refer/facebookimage.jpg: refer/facebookimage-e9bf3aaadd5defdb789e1fc3395180e0.jpg
-refer/facebookimage/index.jpg: refer/facebookimage-e9bf3aaadd5defdb789e1fc3395180e0.jpg
+refer/facebookimage2.jpg: refer/facebookimage2-e9bf3aaadd5defdb789e1fc3395180e0.jpg
+refer/facebookimage2/index.jpg: refer/facebookimage2-e9bf3aaadd5defdb789e1fc3395180e0.jpg
 refer/fb.png: refer/fb-31a15e1ecaae6ef5b3352e78aed6cdad.png
 refer/fb/index.png: refer/fb-31a15e1ecaae6ef5b3352e78aed6cdad.png
 refer/fb@2x.png: refer/fb@2x-0c4c5200a96812cade51bbc005ed00f9.png
@@ -45,10 +45,10 @@ refer/logo.png: refer/logo-f7aa2783ad30276cb6f54ef23da2e1fc.png
 refer/logo/index.png: refer/logo-f7aa2783ad30276cb6f54ef23da2e1fc.png
 refer/logo@2x.png: refer/logo@2x-dc79a923e97bf3f003666b73d91a049a.png
 refer/logo@2x/index.png: refer/logo@2x-dc79a923e97bf3f003666b73d91a049a.png
-refer/mammoth.png: refer/mammoth-e0522022e86e63670d99ed1dece5e106.png
-refer/mammoth/index.png: refer/mammoth-e0522022e86e63670d99ed1dece5e106.png
-refer/mammoth@2x.png: refer/mammoth@2x-66110273b3b513054f635ca19f4f984e.png
-refer/mammoth@2x/index.png: refer/mammoth@2x-66110273b3b513054f635ca19f4f984e.png
+refer/mammoth.png: refer/mammoth-1b13569e9620782f423d4cd3ce931750.png
+refer/mammoth/index.png: refer/mammoth-1b13569e9620782f423d4cd3ce931750.png
+refer/mammoth@2x.png: refer/mammoth@2x-1b13569e9620782f423d4cd3ce931750.png
+refer/mammoth@2x/index.png: refer/mammoth@2x-1b13569e9620782f423d4cd3ce931750.png
 refer/progress-bg.png: refer/progress-bg-4a9966786feaf80d05fffb346ea295fb.png
 refer/progress-bg/index.png: refer/progress-bg-4a9966786feaf80d05fffb346ea295fb.png
 refer/progress-bg@2x.png: refer/progress-bg@2x-3f444bdb8d49c58cad21955969f1b988.png
