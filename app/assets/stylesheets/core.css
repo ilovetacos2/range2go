@@ -637,7 +637,7 @@ only screen and (min-device-pixel-ratio: 2) {
 	}
 
 	#home .form-wrap .key{
-		background: url(/assets/home/page1.jpg) 0 0 no-repeat;
+		background: url(/assets/home/key@2x.png) 0 0 no-repeat;
 		background-size: 46px 19px;
 	}
 
