@@ -46,7 +46,7 @@ html.home{
 #home .hero{
 	width: 100%;
 	height: 446px;
-	background: url(/assets/home/page1.jpg) center center no-repeat;
+        background: url(/assets/home/page1.jpg) center center no-repeat;
 	/*background-size: 1600px 446px;*/
 	overflow: hidden;
 	position: relative;
@@ -632,12 +632,12 @@ only screen and (-o-min-device-pixel-ratio: 2/1),
 only screen and (-webkit-min-device-pixel-ratio: 2),
 only screen and (min-device-pixel-ratio: 2) {
 	#home .hero{
-		background: url(/assets/home/hero@2x.jpg) center center no-repeat;
+		background: url(/assets/home/page1.jpg) center center no-repeat;
 		background-size: 1600px 446px;
 	}
 
 	#home .form-wrap .key{
-		background: url(/assets/home/key@2x.png) 0 0 no-repeat;
+		background: url(/assets/home/page1.jpg) 0 0 no-repeat;
 		background-size: 46px 19px;
 	}
 
